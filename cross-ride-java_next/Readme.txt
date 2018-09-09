@@ -42,3 +42,28 @@ Production Environment:
   4) Store your file in a shared location where Crossover team can access and download it for evaluation. and add your sharable link in the answer field of this question.
 
 
+Rest of the application modification needs to be done as below mentioned 
+
+>>>Product Owner asked you to implement a new feature to send SMS notification on every completed ride request. 
+SMS notification is a rest based service and is only available in staging server. 
+You are provided with detailed API specifications for SMS notification service.
+
+>>>How will you start development and test your code without access to actual rest API?
+
+
+
+>>>After launching, the users of Cross-Ride application grows and database size grows exponentially.
+ As a consequence, this API of top ride sharing users /api/top-rides becomes very slow.
+  Keeping in mind the current structure of database tables, 
+  propose three different possible solutions/improvements to increase the response time of this API? 
+  
+>>>Describe one hard technical problem you faced in your last major project.
+Please describe:
+
+What was the problem and the impact of it?
+What were the solutions considered and final choice?
+What was the outcome?
+What did you learn from solving this problem and what would you re-use in your future projects?
+ 
+
+
